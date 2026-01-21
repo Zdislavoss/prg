@@ -1,0 +1,15 @@
+C:\DotnetProjekty\druhePololeti\OOPBasics\bin\Debug\net9.0\OOPBasics.exe
+C:\DotnetProjekty\druhePololeti\OOPBasics\bin\Debug\net9.0\OOPBasics.deps.json
+C:\DotnetProjekty\druhePololeti\OOPBasics\bin\Debug\net9.0\OOPBasics.runtimeconfig.json
+C:\DotnetProjekty\druhePololeti\OOPBasics\bin\Debug\net9.0\OOPBasics.dll
+C:\DotnetProjekty\druhePololeti\OOPBasics\bin\Debug\net9.0\OOPBasics.pdb
+C:\DotnetProjekty\druhePololeti\OOPBasics\obj\Debug\net9.0\OOPBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotnetProjekty\druhePololeti\OOPBasics\obj\Debug\net9.0\OOPBasics.AssemblyInfoInputs.cache
+C:\DotnetProjekty\druhePololeti\OOPBasics\obj\Debug\net9.0\OOPBasics.AssemblyInfo.cs
+C:\DotnetProjekty\druhePololeti\OOPBasics\obj\Debug\net9.0\OOPBasics.csproj.CoreCompileInputs.cache
+C:\DotnetProjekty\druhePololeti\OOPBasics\obj\Debug\net9.0\OOPBasics.sourcelink.json
+C:\DotnetProjekty\druhePololeti\OOPBasics\obj\Debug\net9.0\OOPBasics.dll
+C:\DotnetProjekty\druhePololeti\OOPBasics\obj\Debug\net9.0\refint\OOPBasics.dll
+C:\DotnetProjekty\druhePololeti\OOPBasics\obj\Debug\net9.0\OOPBasics.pdb
+C:\DotnetProjekty\druhePololeti\OOPBasics\obj\Debug\net9.0\OOPBasics.genruntimeconfig.cache
+C:\DotnetProjekty\druhePololeti\OOPBasics\obj\Debug\net9.0\ref\OOPBasics.dll

@@ -1,0 +1,15 @@
+C:\DotnetProjekty\druhePololeti\Wall\obj\Debug\net9.0\Wall.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotnetProjekty\druhePololeti\Wall\obj\Debug\net9.0\Wall.AssemblyInfoInputs.cache
+C:\DotnetProjekty\druhePololeti\Wall\obj\Debug\net9.0\Wall.AssemblyInfo.cs
+C:\DotnetProjekty\druhePololeti\Wall\obj\Debug\net9.0\Wall.csproj.CoreCompileInputs.cache
+C:\DotnetProjekty\druhePololeti\Wall\obj\Debug\net9.0\Wall.sourcelink.json
+C:\DotnetProjekty\druhePololeti\Wall\bin\Debug\net9.0\Wall.exe
+C:\DotnetProjekty\druhePololeti\Wall\bin\Debug\net9.0\Wall.deps.json
+C:\DotnetProjekty\druhePololeti\Wall\bin\Debug\net9.0\Wall.runtimeconfig.json
+C:\DotnetProjekty\druhePololeti\Wall\bin\Debug\net9.0\Wall.dll
+C:\DotnetProjekty\druhePololeti\Wall\bin\Debug\net9.0\Wall.pdb
+C:\DotnetProjekty\druhePololeti\Wall\obj\Debug\net9.0\Wall.dll
+C:\DotnetProjekty\druhePololeti\Wall\obj\Debug\net9.0\refint\Wall.dll
+C:\DotnetProjekty\druhePololeti\Wall\obj\Debug\net9.0\Wall.pdb
+C:\DotnetProjekty\druhePololeti\Wall\obj\Debug\net9.0\Wall.genruntimeconfig.cache
+C:\DotnetProjekty\druhePololeti\Wall\obj\Debug\net9.0\ref\Wall.dll
