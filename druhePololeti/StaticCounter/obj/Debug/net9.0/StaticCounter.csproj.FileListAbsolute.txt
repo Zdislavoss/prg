@@ -1,0 +1,15 @@
+C:\DotnetProjekty\druhePololeti\StaticCounter\bin\Debug\net9.0\StaticCounter.exe
+C:\DotnetProjekty\druhePololeti\StaticCounter\bin\Debug\net9.0\StaticCounter.deps.json
+C:\DotnetProjekty\druhePololeti\StaticCounter\bin\Debug\net9.0\StaticCounter.runtimeconfig.json
+C:\DotnetProjekty\druhePololeti\StaticCounter\bin\Debug\net9.0\StaticCounter.dll
+C:\DotnetProjekty\druhePololeti\StaticCounter\bin\Debug\net9.0\StaticCounter.pdb
+C:\DotnetProjekty\druhePololeti\StaticCounter\obj\Debug\net9.0\StaticCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotnetProjekty\druhePololeti\StaticCounter\obj\Debug\net9.0\StaticCounter.AssemblyInfoInputs.cache
+C:\DotnetProjekty\druhePololeti\StaticCounter\obj\Debug\net9.0\StaticCounter.AssemblyInfo.cs
+C:\DotnetProjekty\druhePololeti\StaticCounter\obj\Debug\net9.0\StaticCounter.csproj.CoreCompileInputs.cache
+C:\DotnetProjekty\druhePololeti\StaticCounter\obj\Debug\net9.0\StaticCounter.sourcelink.json
+C:\DotnetProjekty\druhePololeti\StaticCounter\obj\Debug\net9.0\StaticCounter.dll
+C:\DotnetProjekty\druhePololeti\StaticCounter\obj\Debug\net9.0\refint\StaticCounter.dll
+C:\DotnetProjekty\druhePololeti\StaticCounter\obj\Debug\net9.0\StaticCounter.pdb
+C:\DotnetProjekty\druhePololeti\StaticCounter\obj\Debug\net9.0\StaticCounter.genruntimeconfig.cache
+C:\DotnetProjekty\druhePololeti\StaticCounter\obj\Debug\net9.0\ref\StaticCounter.dll

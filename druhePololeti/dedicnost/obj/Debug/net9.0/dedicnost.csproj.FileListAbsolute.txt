@@ -1,0 +1,15 @@
+C:\DotnetProjekty\druhePololeti\dedicnost\bin\Debug\net9.0\dedicnost.exe
+C:\DotnetProjekty\druhePololeti\dedicnost\bin\Debug\net9.0\dedicnost.deps.json
+C:\DotnetProjekty\druhePololeti\dedicnost\bin\Debug\net9.0\dedicnost.runtimeconfig.json
+C:\DotnetProjekty\druhePololeti\dedicnost\bin\Debug\net9.0\dedicnost.dll
+C:\DotnetProjekty\druhePololeti\dedicnost\bin\Debug\net9.0\dedicnost.pdb
+C:\DotnetProjekty\druhePololeti\dedicnost\obj\Debug\net9.0\dedicnost.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotnetProjekty\druhePololeti\dedicnost\obj\Debug\net9.0\dedicnost.AssemblyInfoInputs.cache
+C:\DotnetProjekty\druhePololeti\dedicnost\obj\Debug\net9.0\dedicnost.AssemblyInfo.cs
+C:\DotnetProjekty\druhePololeti\dedicnost\obj\Debug\net9.0\dedicnost.csproj.CoreCompileInputs.cache
+C:\DotnetProjekty\druhePololeti\dedicnost\obj\Debug\net9.0\dedicnost.sourcelink.json
+C:\DotnetProjekty\druhePololeti\dedicnost\obj\Debug\net9.0\dedicnost.dll
+C:\DotnetProjekty\druhePololeti\dedicnost\obj\Debug\net9.0\refint\dedicnost.dll
+C:\DotnetProjekty\druhePololeti\dedicnost\obj\Debug\net9.0\dedicnost.pdb
+C:\DotnetProjekty\druhePololeti\dedicnost\obj\Debug\net9.0\dedicnost.genruntimeconfig.cache
+C:\DotnetProjekty\druhePololeti\dedicnost\obj\Debug\net9.0\ref\dedicnost.dll

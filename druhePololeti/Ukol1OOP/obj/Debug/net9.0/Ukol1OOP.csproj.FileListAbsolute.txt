@@ -1,0 +1,15 @@
+C:\DotnetProjekty\druhePololeti\Ukol1OOP\bin\Debug\net9.0\Ukol1OOP.exe
+C:\DotnetProjekty\druhePololeti\Ukol1OOP\bin\Debug\net9.0\Ukol1OOP.deps.json
+C:\DotnetProjekty\druhePololeti\Ukol1OOP\bin\Debug\net9.0\Ukol1OOP.runtimeconfig.json
+C:\DotnetProjekty\druhePololeti\Ukol1OOP\bin\Debug\net9.0\Ukol1OOP.dll
+C:\DotnetProjekty\druhePololeti\Ukol1OOP\bin\Debug\net9.0\Ukol1OOP.pdb
+C:\DotnetProjekty\druhePololeti\Ukol1OOP\obj\Debug\net9.0\Ukol1OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotnetProjekty\druhePololeti\Ukol1OOP\obj\Debug\net9.0\Ukol1OOP.AssemblyInfoInputs.cache
+C:\DotnetProjekty\druhePololeti\Ukol1OOP\obj\Debug\net9.0\Ukol1OOP.AssemblyInfo.cs
+C:\DotnetProjekty\druhePololeti\Ukol1OOP\obj\Debug\net9.0\Ukol1OOP.csproj.CoreCompileInputs.cache
+C:\DotnetProjekty\druhePololeti\Ukol1OOP\obj\Debug\net9.0\Ukol1OOP.sourcelink.json
+C:\DotnetProjekty\druhePololeti\Ukol1OOP\obj\Debug\net9.0\Ukol1OOP.dll
+C:\DotnetProjekty\druhePololeti\Ukol1OOP\obj\Debug\net9.0\refint\Ukol1OOP.dll
+C:\DotnetProjekty\druhePololeti\Ukol1OOP\obj\Debug\net9.0\Ukol1OOP.pdb
+C:\DotnetProjekty\druhePololeti\Ukol1OOP\obj\Debug\net9.0\Ukol1OOP.genruntimeconfig.cache
+C:\DotnetProjekty\druhePololeti\Ukol1OOP\obj\Debug\net9.0\ref\Ukol1OOP.dll

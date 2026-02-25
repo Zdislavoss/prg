@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ukolDedicnost", "ukolDedicnost.csproj", "{9D45AEAE-2D13-48CD-A7C7-8A5790CD55DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D45AEAE-2D13-48CD-A7C7-8A5790CD55DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D45AEAE-2D13-48CD-A7C7-8A5790CD55DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D45AEAE-2D13-48CD-A7C7-8A5790CD55DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D45AEAE-2D13-48CD-A7C7-8A5790CD55DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

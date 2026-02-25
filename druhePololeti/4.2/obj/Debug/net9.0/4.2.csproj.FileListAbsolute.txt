@@ -1,0 +1,15 @@
+C:\DotnetProjekty\druhePololeti\4.2\bin\Debug\net9.0\4.2.exe
+C:\DotnetProjekty\druhePololeti\4.2\bin\Debug\net9.0\4.2.deps.json
+C:\DotnetProjekty\druhePololeti\4.2\bin\Debug\net9.0\4.2.runtimeconfig.json
+C:\DotnetProjekty\druhePololeti\4.2\bin\Debug\net9.0\4.2.dll
+C:\DotnetProjekty\druhePololeti\4.2\bin\Debug\net9.0\4.2.pdb
+C:\DotnetProjekty\druhePololeti\4.2\obj\Debug\net9.0\4.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotnetProjekty\druhePololeti\4.2\obj\Debug\net9.0\4.2.AssemblyInfoInputs.cache
+C:\DotnetProjekty\druhePololeti\4.2\obj\Debug\net9.0\4.2.AssemblyInfo.cs
+C:\DotnetProjekty\druhePololeti\4.2\obj\Debug\net9.0\4.2.csproj.CoreCompileInputs.cache
+C:\DotnetProjekty\druhePololeti\4.2\obj\Debug\net9.0\4.2.sourcelink.json
+C:\DotnetProjekty\druhePololeti\4.2\obj\Debug\net9.0\4.2.dll
+C:\DotnetProjekty\druhePololeti\4.2\obj\Debug\net9.0\refint\4.2.dll
+C:\DotnetProjekty\druhePololeti\4.2\obj\Debug\net9.0\4.2.pdb
+C:\DotnetProjekty\druhePololeti\4.2\obj\Debug\net9.0\4.2.genruntimeconfig.cache
+C:\DotnetProjekty\druhePololeti\4.2\obj\Debug\net9.0\ref\4.2.dll

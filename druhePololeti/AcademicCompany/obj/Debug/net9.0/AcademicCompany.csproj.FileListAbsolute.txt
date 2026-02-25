@@ -1,0 +1,15 @@
+C:\DotnetProjekty\druhePololeti\AcademicCompany\bin\Debug\net9.0\AcademicCompany.exe
+C:\DotnetProjekty\druhePololeti\AcademicCompany\bin\Debug\net9.0\AcademicCompany.deps.json
+C:\DotnetProjekty\druhePololeti\AcademicCompany\bin\Debug\net9.0\AcademicCompany.runtimeconfig.json
+C:\DotnetProjekty\druhePololeti\AcademicCompany\bin\Debug\net9.0\AcademicCompany.dll
+C:\DotnetProjekty\druhePololeti\AcademicCompany\bin\Debug\net9.0\AcademicCompany.pdb
+C:\DotnetProjekty\druhePololeti\AcademicCompany\obj\Debug\net9.0\AcademicCompany.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotnetProjekty\druhePololeti\AcademicCompany\obj\Debug\net9.0\AcademicCompany.AssemblyInfoInputs.cache
+C:\DotnetProjekty\druhePololeti\AcademicCompany\obj\Debug\net9.0\AcademicCompany.AssemblyInfo.cs
+C:\DotnetProjekty\druhePololeti\AcademicCompany\obj\Debug\net9.0\AcademicCompany.csproj.CoreCompileInputs.cache
+C:\DotnetProjekty\druhePololeti\AcademicCompany\obj\Debug\net9.0\AcademicCompany.sourcelink.json
+C:\DotnetProjekty\druhePololeti\AcademicCompany\obj\Debug\net9.0\AcademicCompany.dll
+C:\DotnetProjekty\druhePololeti\AcademicCompany\obj\Debug\net9.0\refint\AcademicCompany.dll
+C:\DotnetProjekty\druhePololeti\AcademicCompany\obj\Debug\net9.0\AcademicCompany.pdb
+C:\DotnetProjekty\druhePololeti\AcademicCompany\obj\Debug\net9.0\AcademicCompany.genruntimeconfig.cache
+C:\DotnetProjekty\druhePololeti\AcademicCompany\obj\Debug\net9.0\ref\AcademicCompany.dll
