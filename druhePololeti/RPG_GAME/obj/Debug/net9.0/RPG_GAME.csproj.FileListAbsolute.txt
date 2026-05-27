@@ -1,0 +1,15 @@
+C:\DotnetProjekty\druhePololeti\RPG_GAME\obj\Debug\net9.0\RPG_GAME.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotnetProjekty\druhePololeti\RPG_GAME\obj\Debug\net9.0\RPG_GAME.AssemblyInfoInputs.cache
+C:\DotnetProjekty\druhePololeti\RPG_GAME\obj\Debug\net9.0\RPG_GAME.AssemblyInfo.cs
+C:\DotnetProjekty\druhePololeti\RPG_GAME\obj\Debug\net9.0\RPG_GAME.csproj.CoreCompileInputs.cache
+C:\DotnetProjekty\druhePololeti\RPG_GAME\obj\Debug\net9.0\RPG_GAME.sourcelink.json
+C:\DotnetProjekty\druhePololeti\RPG_GAME\bin\Debug\net9.0\RPG_GAME.exe
+C:\DotnetProjekty\druhePololeti\RPG_GAME\bin\Debug\net9.0\RPG_GAME.deps.json
+C:\DotnetProjekty\druhePololeti\RPG_GAME\bin\Debug\net9.0\RPG_GAME.runtimeconfig.json
+C:\DotnetProjekty\druhePololeti\RPG_GAME\bin\Debug\net9.0\RPG_GAME.dll
+C:\DotnetProjekty\druhePololeti\RPG_GAME\bin\Debug\net9.0\RPG_GAME.pdb
+C:\DotnetProjekty\druhePololeti\RPG_GAME\obj\Debug\net9.0\RPG_GAME.dll
+C:\DotnetProjekty\druhePololeti\RPG_GAME\obj\Debug\net9.0\refint\RPG_GAME.dll
+C:\DotnetProjekty\druhePololeti\RPG_GAME\obj\Debug\net9.0\RPG_GAME.pdb
+C:\DotnetProjekty\druhePololeti\RPG_GAME\obj\Debug\net9.0\RPG_GAME.genruntimeconfig.cache
+C:\DotnetProjekty\druhePololeti\RPG_GAME\obj\Debug\net9.0\ref\RPG_GAME.dll
